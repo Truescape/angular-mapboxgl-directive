@@ -1,14 +1,14 @@
 {
-  "name": "angular-mapboxgl-directive",
-  "version": "0.28.5",
+  "name": "ts-angular-mapboxgl-directive",
+  "version": "0.29.5",
   "description": "An AngularJS directive for Mapbox GL",
-  "main": "Gruntfile.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Naimikan/angular-mapboxgl-directive.git"
+    "url": "git+https://github.com/Truescape/angular-mapboxgl-directive.git"
   },
   "keywords": [
     "webgl",
@@ -19,12 +19,12 @@
     "directive",
     "cli"
   ],
-  "author": "https://github.com/Naimikan/angular-mapboxgl-directive/graphs/contributors",
+  "author": "https://github.com/Truescape/angular-mapboxgl-directive/graphs/contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Naimikan/angular-mapboxgl-directive/issues"
+    "url": "https://github.com/Truescape/angular-mapboxgl-directive/issues"
   },
-  "homepage": "https://naimikan.github.io/angular-mapboxgl-directive/",
+  "homepage": "https://github.com/Truescape/angular-mapboxgl-directive/",
   "dependencies": {
     "angular": "1.x",
     "mapbox-gl": "^0.23.0"
