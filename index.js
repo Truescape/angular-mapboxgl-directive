@@ -36,7 +36,7 @@ require('./src/directives/glPitch');
 require('./src/directives/glPopups');
 require('./src/directives/glSources');
 require('./src/directives/glStyle');
-require('./src/directives/Video');
+require('./src/directives/glVideo');
 require('./src/directives/glZoom');
 
 
